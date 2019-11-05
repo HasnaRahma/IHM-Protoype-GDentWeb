@@ -7,7 +7,8 @@ Pour un prototypage horizontal interactif résumant bien les fonctionnalités de
 optons pour l’outil de maquettages : JustInMinde
 
 # Note 
-Vous trouverez les idées globales d’interfaces dans le fichier PDF nommé:"Fiche discriptive du projet".
+Vous pouvez tester le prototype en téléchargeant le projet et cliquer sur "Index.html"
+Ou encore vous pouvez trouver les idées globales d’interfaces dans le fichier PDF nommé:"Fiche discriptive du projet".
 
 Et puisque le prototypage pour une IHM ou pour un site internet, ou plus générale pour un
 message graphique n’est pas toujours évident et claire et, nous incluons aussi  ,dans le fichier, la
